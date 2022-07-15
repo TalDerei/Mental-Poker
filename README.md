@@ -1,7 +1,5 @@
 # Mental-Poker
 
-Adding documentation and comments to https://github.com/geometryresearch/mental-poker to better understand how it works.
+Adding documentation and comments to https://github.com/geometryresearch/mental-poker to better understand how the rust codebase works.
 
-Some other links:
-[https://geometryresearch.xyz/notebook/mental-poker-in-the-age-of-snarks-part-1
-](https://geometryresearch.xyz/notebook)
+Some other links: https://geometryresearch.xyz/notebook
